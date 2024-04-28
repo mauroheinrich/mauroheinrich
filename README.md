@@ -1,6 +1,7 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://i.gifer.com/2GU.gif" alt="Banner" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Banner 1" width="40%">
+  <img src="https://camo.githubusercontent.com/e918896b78f4eae336ac3576de1e39c5f135e37335fb84932d966c0309d81211/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3634302f312a6c684f617833635a4154475a774568473075545952412e676966" alt="Banner 2" width="40%">
 </p>
 
 
@@ -60,4 +61,7 @@ Me he desarrollado en diferentes áreas, desde la venta comercial hasta el acomp
 
 
 ¡Gracias por visitar mi perfil!
+
+ <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="Banner" width="100%">
+
 

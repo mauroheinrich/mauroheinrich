@@ -1,7 +1,8 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://tu-url-de-imagen.com](https://i.pinimg.com/originals/9d/1f/82/9d1f82cc324e498dd5127a6ed0296dac.gif" alt="Banner" width="100%">
+  <img src="https://i.gifer.com/2GU.gif" alt="Banner" width="100%">
 </p>
+
 
 # ¡Hola! 👋
 

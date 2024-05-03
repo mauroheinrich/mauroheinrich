@@ -58,7 +58,7 @@ Me he desarrollado en diferentes áreas, desde la venta comercial hasta el acomp
 📧 Correo Electrónico: [heinrichmauro@gmail.com](mailto:heinrichmauro@gmail.com)
 💼 LinkedIn: [Mauro Heinrich](https://www.linkedin.com/in/mauroheinrich/)
 🌐 Sitio Web: [mauroheinrich.com.ar](https://www.mauroheinrich.com.ar)
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauroheinrich&label=Profile%20views&color=0e75b6&style=flat" alt="mauroheinrich" /> </p>
 
